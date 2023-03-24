@@ -2,8 +2,8 @@
 
 const nextConfig = {
   env: {
-    name: 'Piti's Workspaces',
-    description: 'Personal registry of Piti's custom Kasm Workspaces',
+    name: 'Pt Workspaces',
+    description: 'Personal registry of Pt custom Kasm Workspaces',
     icon: '/img/logo.svg',
     listUrl: 'https://Amoebawp.github.io/kasm-repo_testing/',
     contactUrl: '',
