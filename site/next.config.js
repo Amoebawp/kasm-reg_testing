@@ -5,7 +5,7 @@ const nextConfig = {
     name: 'Pt Workspaces',
     description: 'Personal registry of Pt custom Kasm Workspaces',
     icon: '/img/logo.svg',
-    listUrl: 'https://amoebawp.github.io/kasm-reg_testing/',
+    listUrl: 'https://amoebawp.github.io/kasm-reg_testing/list.json',
     contactUrl: 'https://amoebawp.github.io/kasm-reg_testing/',
   },
   reactStrictMode: true,
