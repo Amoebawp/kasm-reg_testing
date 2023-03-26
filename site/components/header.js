@@ -18,7 +18,7 @@ export default function Header({ searchText, changeSearch }) {
   const router = useRouter();
 
   return (
-    <header className="relative font-light overflow-hidden bg-gradient-to-tr from-[#3b4252] to-[#a3be8c] p-8 xl:px-32 text-[#e5e9f0] gap-5 md:gap-0 flex flex-wrap justify-center items-center">
+    <header className="relative font-light overflow-hidden bg-gradient-to-tr from-[#4c566a] to-[#a3be8c] p-8 xl:px-32 text-[#e5e9f0] gap-5 md:gap-0 flex flex-wrap justify-center items-center">
       <Bubbles />
       <div className='relative z-10'>
         <div className="text-3xl">{process.env.name}</div>
