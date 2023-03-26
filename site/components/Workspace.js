@@ -11,7 +11,7 @@ function Workspace({ Component, pageProps, workspace }) {
     }
     
     return (
-        <div onClick={() => viewexample(workspace)} className="w-[245px] h-[88px] transition-all relative cursor-pointer group flex p-2 items-center justify-center bg-slate-100/90 shadow rounded hover:shadow-xl hover:bg-gradient-to-r hover:from-[#8fbcbb] hover:to-[#a3be8c] hover:text-[#e5e9f0]">
+        <div onClick={() => viewexample(workspace)} className="w-[245px] h-[88px] transition-all relative cursor-pointer group flex p-2 items-center justify-center bg-slate-100/90 shadow rounded hover:shadow-xl hover:bg-gradient-to-r hover:from-[#3b4252] hover:to-[#a3be8c] hover:text-[#e5e9f0]">
             <div className="w-full h-full">
                 <div className="show-grid flex h-full items-center">
                     <div className="kasmcard-img flex h-full mx-4 items-center justify-center">
