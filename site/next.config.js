@@ -5,7 +5,7 @@ const nextConfig = {
     name: 'Fanthi Kasm Store',
     description: 'Custom Kasm Workspaces',
     icon: 'https://home.fanthi.fr/src/logo.png',
-    listUrl: 'https://amoebawp.github.io/kasm-reg_testing/list.json',
+    listUrl: 'https://amoebawp.github.io/kasm-reg_testing/',
     contactUrl: 'https://amoebawp.github.io/kasm-reg_testing/',
   },
   reactStrictMode: true,
